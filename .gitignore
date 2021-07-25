@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 ignore
+=======
+abc.txt
+*.log
+test/
+hello.java
+
+>>>>>>> d205d5982d2870e937a668a154188ce3405a6c61
